@@ -8,7 +8,7 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/orlangure/gnomock v0.31.0
 	github.com/rabbitmq/amqp091-go v1.10.0
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 	github.com/testcontainers/testcontainers-go v0.33.0
 )
 
